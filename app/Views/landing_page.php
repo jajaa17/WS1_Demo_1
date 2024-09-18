@@ -14,7 +14,7 @@
     </style>
 </head>
 <body>
-
+<h1>Landing Page</h1>
 <!-- HEADER: MENU + HEROE SECTION -->
 
 
